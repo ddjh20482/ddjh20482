@@ -8,7 +8,7 @@ I have decided to become a data scientist because I love expanding my mathematic
 - :house_with_garden: Based in Northern Virginia
 - 💬 Ask me about sentiment analysis, recommender system, etc
 - :door: Open to data science group projects and share skills and stories
-- 
+
 #### Connect With me
 
 <a href="https://github.com/ddjh20482" target="_blank">
