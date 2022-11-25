@@ -7,6 +7,8 @@ I have decided to become a data scientist because I love expanding my mathematic
 - 🌱 I’m currently learning R, Tableu, SQL
 - :house_with_garden: Based in Northern Virginia
 
+#### Connect With me
+
 <a href="https://github.com/ddjh20482" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -15,6 +17,7 @@ I have decided to become a data scientist because I love expanding my mathematic
 </a>
 <a href="mailto:ddjh204@gmail" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://dev.to/ddjh20482" target="_blank">
 <!--
 **ddjh20482/ddjh20482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
