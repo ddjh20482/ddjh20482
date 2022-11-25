@@ -18,6 +18,8 @@ I have decided to become a data scientist because I love expanding my mathematic
 <a href="mailto:ddjh204@gmail" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://dev.to/ddjh20482" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=dev&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <!--
 **ddjh20482/ddjh20482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
