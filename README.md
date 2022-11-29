@@ -1,6 +1,6 @@
 ## Hi there! 👋🏼
 
-**My name is Jin-hoon Chung** and I am a recent graduate of **machine learning** (Libraries, Python, Jupyter, Git) at Flatiron  School. While learning machine learning, I have also learned how to make non-tech communication. I have over 10 years of experience in survey design, data collection, big data cleaning, summary reports compilation, statistical tests, and SAS programming. My expertise is in numbers, data, problem-solving, listening, and time management.
+**My name is Jin-hoon Chung** and I am a recent **data science** graduate from Flatiron  School. Besides machine learning, I also added to my strength in non-technical communication. I have over 10 years of experience in survey design, data collection, big data cleaning, summary reports compilation, statistical tests, and SAS programming. My expertise is in numbers, data, problem-solving, listening, and time management.
 
 I have decided to become a data scientist because I love expanding my mathematical knowledge. I would love to explore new modern skills and share my experience with others. 
 
